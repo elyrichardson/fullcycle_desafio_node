@@ -1,4 +1,4 @@
-FROM node:14
+FROM elymoral/desafio_node
 
 WORKDIR /usr/src/app
 
